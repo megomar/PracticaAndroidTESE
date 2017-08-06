@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="example.tese.practicas.practica01.MainActivity">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="Intents"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_sql"
+        android:orderInCategory="100"
+        android:title="Agenda SQLite"
+        app:showAsAction="never" />
+</menu>
